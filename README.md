@@ -22,18 +22,13 @@ Design a system using any logic gates of your choice as long they accomplish ALL
 
 ### Build this working machine
 
+- This will require extensive testing since you will need to make sure the resistor on the thermistor above may not be adequate to hit the upper range for registering a TRUE value on your IC gate.  Also, the mechanical side will need to be fully constructed.
+
 ### Procedures
 
-1. Write out all of your work on graph paper so that it is clearly communicated.  
-2. Take a photo of your work and upload it here.
-3. Create a file callled "results.md" and explain all of your work.
-
-## 📝 Next steps (Graded)
-
-
-*Extra Credit Option*
-
-Build a system that accomplishes all of the above requirements and demonstrate it by the end of our finals period.
+1. Write out all of your work on graph paper so that it is clearly communicated.  Take a photo of your work and upload it here.
+2. Design your mechanical system in Onshape using what you have learned about assemblies.  You do not need to build the entire system, just the gears attached to a channel with a channel for the lever attached to the final driven gear.
+3. Create a file callled "results.md" and explain all of your work.  Link the assembly you have created in OnShape in this file. Insert your photo(s) of your graph paper solution.
 
 ## 📚  Resources 
 
