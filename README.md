@@ -9,12 +9,12 @@ Design a system using any logic gates of your choice as long they accomplish ALL
 
 ### - Turn on a motor (through a MOSFET)
   - From a slide switch (SPDT), *AND*
-  - A thermistor (connected through 220 resistor), *AND* 
+  - A [thermistor](https://www.amazon.com/01M1002JF-Thermistor-2-Pin-Radial-Items/dp/B09T5PW1NY) (connected through a ~500 Ohm resistor), *AND* 
   - Turn it off with a limit switch
 
 ## Part Two - Mechanical System
 
-### Assuming a 125 RPM motor is being used and a ___ mm channel as seen here, design a set of driver and driven gears, pulleys or sprockets which accomplish the follwoing:
+### Assuming a 125 RPM motor and a 200mm channel as a lever, design a set of driver and driven gears, pulleys or sprockets which accomplish the follwoing:
 
 - Change the velocity of the end of a lever to 80 m/s +- 5% using only gears, pulleys and sprockets we have in the lab.
 
